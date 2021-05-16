@@ -1,3 +1,3 @@
-This program is used to mine crypto coin.
-Given original transation history,oringinal previous coin hashcode and good hardware, we can mine coin and get reward.
-To get reward the last transaction in linked list should be our crypto wallet number.
+This Project is used to mine a crypto coin.
+Given original transaction history, original previous coin hashcode, and good hardware, we can mine coins and get rewards.
+To get a reward the last transaction in the linked list should be our crypto wallet number.
